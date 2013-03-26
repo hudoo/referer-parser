@@ -155,6 +155,7 @@ Ask:
     - q
   domains:
     - ask.com
+    - www.ask.com
     - web.ask.com
     - int.ask.com
     - mws.ask.com
@@ -2699,8 +2700,10 @@ Yahoo:
     - ar.search.yahoo.com
     - ar.yahoo.com
     - au.search.yahoo.com
+    - au.yhs4.search.yahoo.com
     - au.yahoo.com
     - br.search.yahoo.com
+    - br.yhs4.search.yahoo.com
     - br.yahoo.com
     - cade.searchde.yahoo.com
     - cade.yahoo.com
@@ -2710,15 +2713,18 @@ Yahoo:
     - cn.yahoo.com
     - de.search.yahoo.com
     - de.yahoo.com
+    - de.yhs4.search.yahoo.com
     - dk.search.yahoo.com
     - dk.yahoo.com
     - es.search.yahoo.com
     - es.yahoo.com
     - espanol.searchpanol.yahoo.com
     - espanol.searchpanol.yahoo.com
+    - espanol.yhs4.search.yahoo.com
     - espanol.yahoo.com
     - espanol.yahoo.com
     - fr.search.yahoo.com
+    - fr.yhs4.search.yahoo.com
     - fr.yahoo.com
     - ie.search.yahoo.com
     - ie.yahoo.com
@@ -2728,6 +2734,7 @@ Yahoo:
     - kr.yahoo.com
     - mx.search.yahoo.com
     - mx.yahoo.com
+    - malaysia.yhs4.search.yahoo.com
     - no.search.yahoo.com
     - no.yahoo.com
     - nz.search.yahoo.com
@@ -2744,8 +2751,11 @@ Yahoo:
     - se.yahoo.com
     - search.searcharch.yahoo.com
     - search.yahoo.com
+    - sg.yhs4.search.yahoo.com
     - uk.search.yahoo.com
+    - uk.yhs4.search.yahoo.com
     - uk.yahoo.com
+    - us.yhs4.search.yahoo.com
     - www.yahoo.co.jp
     - search.yahoo.co.jp
     # powered by Yahoo
@@ -2760,6 +2770,10 @@ Yahoo image search:
   domains:
     - image.yahoo.cn
     - images.search.yahoo.com
+    - de.images.search.yahoo.com
+    - fr.images.search.yahoo.com
+    - uk.images.search.yahoo.com
+
 
 Yam:
   parameters:
